@@ -2,21 +2,39 @@
   "channel": "Shady     GG",
   "handle": "@ShadyGG-13",
   "channelId": "UCIpxXMvgW4gvjGRoRCbjPbA",
-  "subscribers": 11,
-  "videos": 12,
+  "subscribers": 12,
+  "videos": 14,
   "views": 150,
   "hiddenSubscriberCount": false,
-  "updatedAt": "2026-11-17T20:59:08.576Z",
+  "updatedAt": "2026-11-18T07:35:55.725Z",
   "latestVideo": {
-    "id": "yAfMby9PlDo",
-    "title": "I Died on IMPACT in Warzone Resurgence 💀 Still Got 8th Place?! 😂",
-    "description": "💀 WELL… THAT DIDN'T GO AS PLANNED! 😂\n\nI dropped into Call of Duty: Warzone Resurgence ready to dominate the lobby… and apparently gravity had other plans. 💀\n\nDIED ON IMPACT. 🤦‍♂️\n\nSomehow, this absolute disaster of a match still ended with an 8TH PLACE finish! 🏆\n\nWas this the worst landing in Warzone history? You be the judge. 😂\n\n🔥 If you enjoy COD fails, chaotic Resurgence gameplay, and moments that make you question everything, you're in the right place!\n\n👍 SMASH that LIKE button if you've ever had a landing go horribly wrong!\n\n💬 COMMENT your most embarrassing Warzone death!\n\n🔔 SUBSCRIBE for more Call of Duty gameplay, funny fails, challenges, and the occasional victory!\n\n#Warzone #Resurgence #CallOfDuty #CODWarzone #WarzoneFails #GamingFails",
-    "publishedAt": "2026-10-31T20:00:25Z",
-    "thumbnail": "https://i.ytimg.com/vi/yAfMby9PlDo/maxresdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=yAfMby9PlDo",
-    "mission": 12
+    "id": "BS8biekqY10",
+    "title": "Funny moments of my friend and I",
+    "description": "",
+    "publishedAt": "2026-11-18T05:02:43Z",
+    "thumbnail": "https://i.ytimg.com/vi/BS8biekqY10/maxresdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=BS8biekqY10",
+    "mission": 14
   },
   "videoList": [
+    {
+      "id": "BS8biekqY10",
+      "title": "Funny moments of my friend and I",
+      "description": "",
+      "publishedAt": "2026-11-18T05:02:43Z",
+      "thumbnail": "https://i.ytimg.com/vi/BS8biekqY10/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=BS8biekqY10",
+      "mission": 14
+    },
+    {
+      "id": "coytInlGgDk",
+      "title": "November 17, 2026",
+      "description": "",
+      "publishedAt": "2026-11-18T03:45:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/coytInlGgDk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=coytInlGgDk",
+      "mission": 13
+    },
     {
       "id": "yAfMby9PlDo",
       "title": "I Died on IMPACT in Warzone Resurgence 💀 Still Got 8th Place?! 😂",
