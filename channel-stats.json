@@ -2,21 +2,30 @@
   "channel": "Shady     GG",
   "handle": "@ShadyGG-13",
   "channelId": "UCIpxXMvgW4gvjGRoRCbjPbA",
-  "subscribers": 24,
-  "videos": 22,
+  "subscribers": 29,
+  "videos": 23,
   "views": 1035,
   "hiddenSubscriberCount": false,
-  "updatedAt": "2026-11-19T07:31:28.293Z",
+  "updatedAt": "2026-11-19T20:42:30.383Z",
   "latestVideo": {
-    "id": "euyV5SEDf5c",
-    "title": "anything helps please 🥺",
+    "id": "T5AUWCHXqOM",
+    "title": "claim. your OG ticket today day 1 of posting I'll be doing shout outs as well!",
     "description": "",
-    "publishedAt": "2026-11-19T04:15:28Z",
-    "thumbnail": "https://i.ytimg.com/vi/euyV5SEDf5c/maxresdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=euyV5SEDf5c",
-    "mission": 22
+    "publishedAt": "2026-11-19T07:44:21Z",
+    "thumbnail": "https://i.ytimg.com/vi/T5AUWCHXqOM/maxresdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=T5AUWCHXqOM",
+    "mission": 23
   },
   "videoList": [
+    {
+      "id": "T5AUWCHXqOM",
+      "title": "claim. your OG ticket today day 1 of posting I'll be doing shout outs as well!",
+      "description": "",
+      "publishedAt": "2026-11-19T07:44:21Z",
+      "thumbnail": "https://i.ytimg.com/vi/T5AUWCHXqOM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=T5AUWCHXqOM",
+      "mission": 23
+    },
     {
       "id": "euyV5SEDf5c",
       "title": "anything helps please 🥺",
