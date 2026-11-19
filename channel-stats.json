@@ -2,21 +2,93 @@
   "channel": "Shady     GG",
   "handle": "@ShadyGG-13",
   "channelId": "UCIpxXMvgW4gvjGRoRCbjPbA",
-  "subscribers": 12,
-  "videos": 14,
-  "views": 150,
+  "subscribers": 24,
+  "videos": 22,
+  "views": 1035,
   "hiddenSubscriberCount": false,
-  "updatedAt": "2026-11-18T20:36:58.171Z",
+  "updatedAt": "2026-11-19T07:31:28.293Z",
   "latestVideo": {
-    "id": "BS8biekqY10",
-    "title": "Funny moments of my friend and I",
+    "id": "euyV5SEDf5c",
+    "title": "anything helps please 🥺",
     "description": "",
-    "publishedAt": "2026-11-18T05:02:43Z",
-    "thumbnail": "https://i.ytimg.com/vi/BS8biekqY10/maxresdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=BS8biekqY10",
-    "mission": 14
+    "publishedAt": "2026-11-19T04:15:28Z",
+    "thumbnail": "https://i.ytimg.com/vi/euyV5SEDf5c/maxresdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=euyV5SEDf5c",
+    "mission": 22
   },
   "videoList": [
+    {
+      "id": "euyV5SEDf5c",
+      "title": "anything helps please 🥺",
+      "description": "",
+      "publishedAt": "2026-11-19T04:15:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/euyV5SEDf5c/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=euyV5SEDf5c",
+      "mission": 22
+    },
+    {
+      "id": "8UrajpuasBw",
+      "title": "guys which one you think is better leave itin the comments down below make sure to like and sub!",
+      "description": "",
+      "publishedAt": "2026-11-19T04:11:51Z",
+      "thumbnail": "https://i.ytimg.com/vi/8UrajpuasBw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=8UrajpuasBw",
+      "mission": 21
+    },
+    {
+      "id": "AL8No8EaZBc",
+      "title": "cats are cute! :3",
+      "description": "",
+      "publishedAt": "2026-11-19T02:17:45Z",
+      "thumbnail": "https://i.ytimg.com/vi/AL8No8EaZBc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=AL8No8EaZBc",
+      "mission": 20
+    },
+    {
+      "id": "ZIyWnm6pNe4",
+      "title": "it worrkksss",
+      "description": "",
+      "publishedAt": "2026-11-19T02:04:55Z",
+      "thumbnail": "https://i.ytimg.com/vi/ZIyWnm6pNe4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ZIyWnm6pNe4",
+      "mission": 19
+    },
+    {
+      "id": "YDwjJieeypw",
+      "title": "dont let this go viral guys 🥹",
+      "description": "",
+      "publishedAt": "2026-11-19T01:51:02Z",
+      "thumbnail": "https://i.ytimg.com/vi/YDwjJieeypw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=YDwjJieeypw",
+      "mission": 18
+    },
+    {
+      "id": "n1s78XjwrV8",
+      "title": "Id this true or is it cap?🤔",
+      "description": "",
+      "publishedAt": "2026-11-19T00:41:39Z",
+      "thumbnail": "https://i.ytimg.com/vi/n1s78XjwrV8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=n1s78XjwrV8",
+      "mission": 17
+    },
+    {
+      "id": "hkv8_ypsrVk",
+      "title": "also make sure to like and sub!",
+      "description": "",
+      "publishedAt": "2026-11-19T00:36:59Z",
+      "thumbnail": "https://i.ytimg.com/vi/hkv8_ypsrVk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hkv8_ypsrVk",
+      "mission": 16
+    },
+    {
+      "id": "HuaYiloFjrM",
+      "title": "i am trying to make verity shorts 😁",
+      "description": "",
+      "publishedAt": "2026-11-19T00:28:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/HuaYiloFjrM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=HuaYiloFjrM",
+      "mission": 15
+    },
     {
       "id": "BS8biekqY10",
       "title": "Funny moments of my friend and I",
