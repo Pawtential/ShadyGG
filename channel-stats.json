@@ -2,21 +2,39 @@
   "channel": "Shady     GG",
   "handle": "@ShadyGG-13",
   "channelId": "UCIpxXMvgW4gvjGRoRCbjPbA",
-  "subscribers": 41,
-  "videos": 28,
+  "subscribers": 53,
+  "videos": 30,
   "views": 6162,
   "hiddenSubscriberCount": false,
-  "updatedAt": "2026-11-20T07:23:24.284Z",
+  "updatedAt": "2026-11-20T20:26:49.242Z",
   "latestVideo": {
-    "id": "Yo1_4yLmuhs",
-    "title": "I spent like 30 minutes on this.... please like and sub 🥹💔✌",
+    "id": "k_ZpozbeUhQ",
+    "title": "Just one more game 😭💔",
     "description": "",
-    "publishedAt": "2026-11-20T04:58:20Z",
-    "thumbnail": "https://i.ytimg.com/vi/Yo1_4yLmuhs/maxresdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=Yo1_4yLmuhs",
-    "mission": 28
+    "publishedAt": "2026-11-20T19:25:15Z",
+    "thumbnail": "https://i.ytimg.com/vi/k_ZpozbeUhQ/maxresdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=k_ZpozbeUhQ",
+    "mission": 30
   },
   "videoList": [
+    {
+      "id": "k_ZpozbeUhQ",
+      "title": "Just one more game 😭💔",
+      "description": "",
+      "publishedAt": "2026-11-20T19:25:15Z",
+      "thumbnail": "https://i.ytimg.com/vi/k_ZpozbeUhQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=k_ZpozbeUhQ",
+      "mission": 30
+    },
+    {
+      "id": "WwK6oY7xlOA",
+      "title": "give me a hi from every country 😁(what country you live in?)",
+      "description": "",
+      "publishedAt": "2026-11-20T17:22:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/WwK6oY7xlOA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WwK6oY7xlOA",
+      "mission": 29
+    },
     {
       "id": "Yo1_4yLmuhs",
       "title": "I spent like 30 minutes on this.... please like and sub 🥹💔✌",
