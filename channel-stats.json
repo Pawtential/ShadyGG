@@ -2,21 +2,30 @@
   "channel": "Shady     GG",
   "handle": "@ShadyGG-13",
   "channelId": "UCIpxXMvgW4gvjGRoRCbjPbA",
-  "subscribers": 53,
-  "videos": 30,
-  "views": 6162,
+  "subscribers": 52,
+  "videos": 31,
+  "views": 8914,
   "hiddenSubscriberCount": false,
-  "updatedAt": "2026-11-20T20:26:49.242Z",
+  "updatedAt": "2026-11-21T07:16:37.165Z",
   "latestVideo": {
-    "id": "k_ZpozbeUhQ",
-    "title": "Just one more game 😭💔",
+    "id": "4pd_YGpIvwY",
+    "title": "please help 🙏",
     "description": "",
-    "publishedAt": "2026-11-20T19:25:15Z",
-    "thumbnail": "https://i.ytimg.com/vi/k_ZpozbeUhQ/maxresdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=k_ZpozbeUhQ",
-    "mission": 30
+    "publishedAt": "2026-11-20T23:17:51Z",
+    "thumbnail": "https://i.ytimg.com/vi/4pd_YGpIvwY/maxresdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=4pd_YGpIvwY",
+    "mission": 31
   },
   "videoList": [
+    {
+      "id": "4pd_YGpIvwY",
+      "title": "please help 🙏",
+      "description": "",
+      "publishedAt": "2026-11-20T23:17:51Z",
+      "thumbnail": "https://i.ytimg.com/vi/4pd_YGpIvwY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4pd_YGpIvwY",
+      "mission": 31
+    },
     {
       "id": "k_ZpozbeUhQ",
       "title": "Just one more game 😭💔",
