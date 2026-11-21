@@ -2,21 +2,39 @@
   "channel": "Shady     GG",
   "handle": "@ShadyGG-13",
   "channelId": "UCIpxXMvgW4gvjGRoRCbjPbA",
-  "subscribers": 52,
-  "videos": 31,
-  "views": 8914,
+  "subscribers": 50,
+  "videos": 33,
+  "views": 8918,
   "hiddenSubscriberCount": false,
-  "updatedAt": "2026-11-21T07:16:37.165Z",
+  "updatedAt": "2026-11-21T19:21:09.456Z",
   "latestVideo": {
-    "id": "4pd_YGpIvwY",
-    "title": "please help 🙏",
+    "id": "GuQNF4-nDpM",
+    "title": "I tried like a 100 times and finally got this...",
     "description": "",
-    "publishedAt": "2026-11-20T23:17:51Z",
-    "thumbnail": "https://i.ytimg.com/vi/4pd_YGpIvwY/maxresdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=4pd_YGpIvwY",
-    "mission": 31
+    "publishedAt": "2026-11-21T16:33:37Z",
+    "thumbnail": "https://i.ytimg.com/vi/GuQNF4-nDpM/maxresdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=GuQNF4-nDpM",
+    "mission": 33
   },
   "videoList": [
+    {
+      "id": "GuQNF4-nDpM",
+      "title": "I tried like a 100 times and finally got this...",
+      "description": "",
+      "publishedAt": "2026-11-21T16:33:37Z",
+      "thumbnail": "https://i.ytimg.com/vi/GuQNF4-nDpM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=GuQNF4-nDpM",
+      "mission": 33
+    },
+    {
+      "id": "fS6SZG90UnM",
+      "title": "SUMMON DANS!",
+      "description": "",
+      "publishedAt": "2026-11-21T07:51:30Z",
+      "thumbnail": "https://i.ytimg.com/vi/fS6SZG90UnM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fS6SZG90UnM",
+      "mission": 32
+    },
     {
       "id": "4pd_YGpIvwY",
       "title": "please help 🙏",
