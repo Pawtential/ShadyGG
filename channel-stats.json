@@ -2,21 +2,39 @@
   "channel": "Shady     GG",
   "handle": "@ShadyGG-13",
   "channelId": "UCIpxXMvgW4gvjGRoRCbjPbA",
-  "subscribers": 50,
-  "videos": 33,
-  "views": 8918,
+  "subscribers": 53,
+  "videos": 35,
+  "views": 8787,
   "hiddenSubscriberCount": false,
-  "updatedAt": "2026-11-21T19:21:09.456Z",
+  "updatedAt": "2026-11-22T06:56:56.574Z",
   "latestVideo": {
-    "id": "GuQNF4-nDpM",
-    "title": "I tried like a 100 times and finally got this...",
+    "id": "4dvirlN95A4",
+    "title": "please my dream is one verified account comment 🥹✌💔",
     "description": "",
-    "publishedAt": "2026-11-21T16:33:37Z",
-    "thumbnail": "https://i.ytimg.com/vi/GuQNF4-nDpM/maxresdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=GuQNF4-nDpM",
-    "mission": 33
+    "publishedAt": "2026-11-22T04:33:02Z",
+    "thumbnail": "https://i.ytimg.com/vi/4dvirlN95A4/maxresdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=4dvirlN95A4",
+    "mission": 35
   },
   "videoList": [
+    {
+      "id": "4dvirlN95A4",
+      "title": "please my dream is one verified account comment 🥹✌💔",
+      "description": "",
+      "publishedAt": "2026-11-22T04:33:02Z",
+      "thumbnail": "https://i.ytimg.com/vi/4dvirlN95A4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4dvirlN95A4",
+      "mission": 35
+    },
+    {
+      "id": "4jaupHYr4Tk",
+      "title": "please I summon fans someone help me and tag him 🥹✌💔",
+      "description": "",
+      "publishedAt": "2026-11-21T22:11:18Z",
+      "thumbnail": "https://i.ytimg.com/vi/4jaupHYr4Tk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4jaupHYr4Tk",
+      "mission": 34
+    },
     {
       "id": "GuQNF4-nDpM",
       "title": "I tried like a 100 times and finally got this...",
