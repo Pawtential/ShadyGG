@@ -3,20 +3,38 @@
   "handle": "@ShadyGG-13",
   "channelId": "UCIpxXMvgW4gvjGRoRCbjPbA",
   "subscribers": 53,
-  "videos": 35,
-  "views": 8787,
+  "videos": 37,
+  "views": 12125,
   "hiddenSubscriberCount": false,
-  "updatedAt": "2026-11-22T06:56:56.574Z",
+  "updatedAt": "2026-11-22T19:45:07.544Z",
   "latestVideo": {
-    "id": "4dvirlN95A4",
-    "title": "please my dream is one verified account comment 🥹✌💔",
+    "id": "hho-rJPtkdY",
+    "title": "gimmie those likes bro...",
     "description": "",
-    "publishedAt": "2026-11-22T04:33:02Z",
-    "thumbnail": "https://i.ytimg.com/vi/4dvirlN95A4/maxresdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=4dvirlN95A4",
-    "mission": 35
+    "publishedAt": "2026-11-22T17:26:16Z",
+    "thumbnail": "https://i.ytimg.com/vi/hho-rJPtkdY/maxresdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=hho-rJPtkdY",
+    "mission": 37
   },
   "videoList": [
+    {
+      "id": "hho-rJPtkdY",
+      "title": "gimmie those likes bro...",
+      "description": "",
+      "publishedAt": "2026-11-22T17:26:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/hho-rJPtkdY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hho-rJPtkdY",
+      "mission": 37
+    },
+    {
+      "id": "ZNGFCccHpyg",
+      "title": "keep your promises!",
+      "description": "",
+      "publishedAt": "2026-11-22T07:36:11Z",
+      "thumbnail": "https://i.ytimg.com/vi/ZNGFCccHpyg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ZNGFCccHpyg",
+      "mission": 36
+    },
     {
       "id": "4dvirlN95A4",
       "title": "please my dream is one verified account comment 🥹✌💔",
