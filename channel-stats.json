@@ -2,21 +2,57 @@
   "channel": "Shady     GG",
   "handle": "@ShadyGG-13",
   "channelId": "UCIpxXMvgW4gvjGRoRCbjPbA",
-  "subscribers": 53,
-  "videos": 44,
-  "views": 11880,
+  "subscribers": 57,
+  "videos": 47,
+  "views": 14110,
   "hiddenSubscriberCount": false,
-  "updatedAt": "2026-11-23T07:46:07.085Z",
+  "updatedAt": "2026-11-23T23:57:40.247Z",
   "latestVideo": {
-    "id": "-OUTEA2QASw",
-    "title": "I dunno it keeps saying the same word...",
+    "id": "v1-lUdnS1hs",
+    "title": "uhm... I got the error message...",
     "description": "",
-    "publishedAt": "2026-11-23T07:08:59Z",
-    "thumbnail": "https://i.ytimg.com/vi/-OUTEA2QASw/maxresdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=-OUTEA2QASw",
-    "mission": 44
+    "publishedAt": "2026-11-23T20:24:08Z",
+    "thumbnail": "https://i.ytimg.com/vi/v1-lUdnS1hs/maxresdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=v1-lUdnS1hs",
+    "mission": 47
   },
   "videoList": [
+    {
+      "id": "v1-lUdnS1hs",
+      "title": "uhm... I got the error message...",
+      "description": "",
+      "publishedAt": "2026-11-23T20:24:08Z",
+      "thumbnail": "https://i.ytimg.com/vi/v1-lUdnS1hs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=v1-lUdnS1hs",
+      "mission": 47
+    },
+    {
+      "id": "oqKssDeC2NY",
+      "title": "this will be in your bed tonight if you don't like...",
+      "description": "",
+      "publishedAt": "2026-11-23T20:22:29Z",
+      "thumbnail": "https://i.ytimg.com/vi/oqKssDeC2NY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=oqKssDeC2NY",
+      "mission": 46
+    },
+    {
+      "id": "p1sM7D9EKdU",
+      "title": "how bro @scottfrenzel",
+      "description": "",
+      "publishedAt": "2026-11-23T16:54:08Z",
+      "thumbnail": "https://i.ytimg.com/vi/p1sM7D9EKdU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=p1sM7D9EKdU",
+      "mission": 45
+    },
+    {
+      "id": "oQ36e7HCDZ8",
+      "title": "the last one freaked me out 🥀",
+      "description": "",
+      "publishedAt": "2026-11-23T16:14:26Z",
+      "thumbnail": "https://i.ytimg.com/vi/oQ36e7HCDZ8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=oQ36e7HCDZ8",
+      "mission": 44
+    },
     {
       "id": "-OUTEA2QASw",
       "title": "I dunno it keeps saying the same word...",
@@ -24,15 +60,6 @@
       "publishedAt": "2026-11-23T07:08:59Z",
       "thumbnail": "https://i.ytimg.com/vi/-OUTEA2QASw/maxresdefault.jpg",
       "url": "https://www.youtube.com/watch?v=-OUTEA2QASw",
-      "mission": 44
-    },
-    {
-      "id": "rTvGP8XRU4g",
-      "title": "Guys I summon him! #scottfrenzle",
-      "description": "",
-      "publishedAt": "2026-11-23T06:58:41Z",
-      "thumbnail": "https://i.ytimg.com/vi/rTvGP8XRU4g/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=rTvGP8XRU4g",
       "mission": 43
     },
     {
