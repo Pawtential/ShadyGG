@@ -3,20 +3,83 @@
   "handle": "@ShadyGG-13",
   "channelId": "UCIpxXMvgW4gvjGRoRCbjPbA",
   "subscribers": 53,
-  "videos": 37,
-  "views": 12125,
+  "videos": 44,
+  "views": 11880,
   "hiddenSubscriberCount": false,
-  "updatedAt": "2026-11-22T19:45:07.544Z",
+  "updatedAt": "2026-11-23T07:46:07.085Z",
   "latestVideo": {
-    "id": "hho-rJPtkdY",
-    "title": "gimmie those likes bro...",
+    "id": "-OUTEA2QASw",
+    "title": "I dunno it keeps saying the same word...",
     "description": "",
-    "publishedAt": "2026-11-22T17:26:16Z",
-    "thumbnail": "https://i.ytimg.com/vi/hho-rJPtkdY/maxresdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=hho-rJPtkdY",
-    "mission": 37
+    "publishedAt": "2026-11-23T07:08:59Z",
+    "thumbnail": "https://i.ytimg.com/vi/-OUTEA2QASw/maxresdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=-OUTEA2QASw",
+    "mission": 44
   },
   "videoList": [
+    {
+      "id": "-OUTEA2QASw",
+      "title": "I dunno it keeps saying the same word...",
+      "description": "",
+      "publishedAt": "2026-11-23T07:08:59Z",
+      "thumbnail": "https://i.ytimg.com/vi/-OUTEA2QASw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-OUTEA2QASw",
+      "mission": 44
+    },
+    {
+      "id": "rTvGP8XRU4g",
+      "title": "Guys I summon him! #scottfrenzle",
+      "description": "",
+      "publishedAt": "2026-11-23T06:58:41Z",
+      "thumbnail": "https://i.ytimg.com/vi/rTvGP8XRU4g/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=rTvGP8XRU4g",
+      "mission": 43
+    },
+    {
+      "id": "vnN6WtAm1-g",
+      "title": "ps this is not my real name i dont wanna share my real name so I used a random name I could think of",
+      "description": "",
+      "publishedAt": "2026-11-23T06:55:11Z",
+      "thumbnail": "https://i.ytimg.com/vi/vnN6WtAm1-g/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vnN6WtAm1-g",
+      "mission": 42
+    },
+    {
+      "id": "4D2AEqWmy-c",
+      "title": "first time like and sub!",
+      "description": "",
+      "publishedAt": "2026-11-23T06:40:36Z",
+      "thumbnail": "https://i.ytimg.com/vi/4D2AEqWmy-c/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4D2AEqWmy-c",
+      "mission": 41
+    },
+    {
+      "id": "2M_R9wnFMUI",
+      "title": "like and subscribe guys!!",
+      "description": "",
+      "publishedAt": "2026-11-23T06:20:07Z",
+      "thumbnail": "https://i.ytimg.com/vi/2M_R9wnFMUI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2M_R9wnFMUI",
+      "mission": 40
+    },
+    {
+      "id": "y0h8SFUJEbU",
+      "title": "what my nickname?",
+      "description": "",
+      "publishedAt": "2026-11-23T06:10:26Z",
+      "thumbnail": "https://i.ytimg.com/vi/y0h8SFUJEbU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=y0h8SFUJEbU",
+      "mission": 39
+    },
+    {
+      "id": "UY5F4lB0QF0",
+      "title": "Like and subscribe or this will be under your bed tonight 👆👆👆",
+      "description": "",
+      "publishedAt": "2026-11-23T05:11:26Z",
+      "thumbnail": "https://i.ytimg.com/vi/UY5F4lB0QF0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=UY5F4lB0QF0",
+      "mission": 38
+    },
     {
       "id": "hho-rJPtkdY",
       "title": "gimmie those likes bro...",
