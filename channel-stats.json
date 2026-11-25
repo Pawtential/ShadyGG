@@ -2,21 +2,75 @@
   "channel": "Shady     GG",
   "handle": "@ShadyGG-13",
   "channelId": "UCIpxXMvgW4gvjGRoRCbjPbA",
-  "subscribers": 58,
-  "videos": 47,
-  "views": 17355,
+  "subscribers": 59,
+  "videos": 53,
+  "views": 17461,
   "hiddenSubscriberCount": false,
-  "updatedAt": "2026-11-24T22:30:18.472Z",
+  "updatedAt": "2026-11-25T08:42:38.288Z",
   "latestVideo": {
-    "id": "v1-lUdnS1hs",
-    "title": "uhm... I got the error message...",
+    "id": "ENKTnKomuXI",
+    "title": "had to sorry guys... #viralshort",
     "description": "",
-    "publishedAt": "2026-11-23T20:24:08Z",
-    "thumbnail": "https://i.ytimg.com/vi/v1-lUdnS1hs/maxresdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=v1-lUdnS1hs",
-    "mission": 47
+    "publishedAt": "2026-11-25T06:36:10Z",
+    "thumbnail": "https://i.ytimg.com/vi/ENKTnKomuXI/maxresdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=ENKTnKomuXI",
+    "mission": 53
   },
   "videoList": [
+    {
+      "id": "ENKTnKomuXI",
+      "title": "had to sorry guys... #viralshort",
+      "description": "",
+      "publishedAt": "2026-11-25T06:36:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/ENKTnKomuXI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ENKTnKomuXI",
+      "mission": 53
+    },
+    {
+      "id": "sc02fqeGm3Y",
+      "title": "it is not true #viralvideo",
+      "description": "",
+      "publishedAt": "2026-11-25T06:24:37Z",
+      "thumbnail": "https://i.ytimg.com/vi/sc02fqeGm3Y/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=sc02fqeGm3Y",
+      "mission": 52
+    },
+    {
+      "id": "iUlX13aV95M",
+      "title": "everytime 😭🥀#viralshort  #youtubeshorts #makethisviral",
+      "description": "",
+      "publishedAt": "2026-11-25T03:52:15Z",
+      "thumbnail": "https://i.ytimg.com/vi/iUlX13aV95M/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=iUlX13aV95M",
+      "mission": 51
+    },
+    {
+      "id": "nq9X6KSrb5I",
+      "title": "btw they're playin tag #viralshort  #youtubeshorts",
+      "description": "",
+      "publishedAt": "2026-11-25T03:47:46Z",
+      "thumbnail": "https://i.ytimg.com/vi/nq9X6KSrb5I/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=nq9X6KSrb5I",
+      "mission": 50
+    },
+    {
+      "id": "HsRHkX8KscA",
+      "title": "not my problem girly",
+      "description": "",
+      "publishedAt": "2026-11-25T03:36:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/HsRHkX8KscA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=HsRHkX8KscA",
+      "mission": 49
+    },
+    {
+      "id": "Ich3YYUQniQ",
+      "title": "guys is this true? #youtubeshorts #viralvideo #likeandsubscribe",
+      "description": "",
+      "publishedAt": "2026-11-24T23:44:35Z",
+      "thumbnail": "https://i.ytimg.com/vi/Ich3YYUQniQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Ich3YYUQniQ",
+      "mission": 48
+    },
     {
       "id": "v1-lUdnS1hs",
       "title": "uhm... I got the error message...",
