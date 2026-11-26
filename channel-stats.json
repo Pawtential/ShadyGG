@@ -2,21 +2,30 @@
   "channel": "Shady     GG",
   "handle": "@ShadyGG-13",
   "channelId": "UCIpxXMvgW4gvjGRoRCbjPbA",
-  "subscribers": 59,
-  "videos": 53,
-  "views": 19276,
+  "subscribers": 60,
+  "videos": 54,
+  "views": 19359,
   "hiddenSubscriberCount": false,
-  "updatedAt": "2026-11-25T21:45:16.380Z",
+  "updatedAt": "2026-11-26T08:27:28.912Z",
   "latestVideo": {
-    "id": "ENKTnKomuXI",
-    "title": "had to sorry guys... #viralshort",
+    "id": "fGrbnT_oGbg",
+    "title": "btw I said \"what is this bro\"#viralvideo",
     "description": "",
-    "publishedAt": "2026-11-25T06:36:10Z",
-    "thumbnail": "https://i.ytimg.com/vi/ENKTnKomuXI/maxresdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=ENKTnKomuXI",
-    "mission": 53
+    "publishedAt": "2026-11-26T01:37:14Z",
+    "thumbnail": "https://i.ytimg.com/vi/fGrbnT_oGbg/maxresdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=fGrbnT_oGbg",
+    "mission": 54
   },
   "videoList": [
+    {
+      "id": "fGrbnT_oGbg",
+      "title": "btw I said \"what is this bro\"#viralvideo",
+      "description": "",
+      "publishedAt": "2026-11-26T01:37:14Z",
+      "thumbnail": "https://i.ytimg.com/vi/fGrbnT_oGbg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fGrbnT_oGbg",
+      "mission": 54
+    },
     {
       "id": "ENKTnKomuXI",
       "title": "had to sorry guys... #viralshort",
