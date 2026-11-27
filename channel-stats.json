@@ -3,20 +3,29 @@
   "handle": "@ShadyGG-13",
   "channelId": "UCIpxXMvgW4gvjGRoRCbjPbA",
   "subscribers": 59,
-  "videos": 54,
-  "views": 20080,
+  "videos": 55,
+  "views": 20350,
   "hiddenSubscriberCount": false,
-  "updatedAt": "2026-11-27T08:42:01.834Z",
+  "updatedAt": "2026-11-27T21:22:38.282Z",
   "latestVideo": {
-    "id": "fGrbnT_oGbg",
-    "title": "btw I said \"what is this bro\"#viralvideo",
+    "id": "AgMD4a0gZqk",
+    "title": "why we lyin guys",
     "description": "",
-    "publishedAt": "2026-11-26T01:37:14Z",
-    "thumbnail": "https://i.ytimg.com/vi/fGrbnT_oGbg/maxresdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=fGrbnT_oGbg",
-    "mission": 54
+    "publishedAt": "2026-11-27T18:31:52Z",
+    "thumbnail": "https://i.ytimg.com/vi/AgMD4a0gZqk/maxresdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=AgMD4a0gZqk",
+    "mission": 55
   },
   "videoList": [
+    {
+      "id": "AgMD4a0gZqk",
+      "title": "why we lyin guys",
+      "description": "",
+      "publishedAt": "2026-11-27T18:31:52Z",
+      "thumbnail": "https://i.ytimg.com/vi/AgMD4a0gZqk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=AgMD4a0gZqk",
+      "mission": 55
+    },
     {
       "id": "fGrbnT_oGbg",
       "title": "btw I said \"what is this bro\"#viralvideo",
